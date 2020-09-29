@@ -1,7 +1,7 @@
 # video-stream-web
 ## Description
 
-> A stream video website by `Golang` enableling people to share interesting videos
+> This is a stream video website written in `Golang` which let people share interesting videos
 
 ## Progress
 - [x] Uploading Videos
